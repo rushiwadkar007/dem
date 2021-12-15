@@ -4,14 +4,14 @@
     "collate": "utf8mb4_unicode_ci"
   },
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "adobot",
-    "host": "127.0.0.1",
+    "username": "bbea1205965fe3",
+    "password": "b08c9027",
+    "database": "heroku_992f958633ba454",
+    "host": "us-cdbr-east-05.cleardb.net",
     "dialect": "mysql",
     "admin" : {
-      "username": "admin",
-      "password": "admin"
+      "username": "rushidb",
+      "password": "879345rushi*"
     }
   },
   "production": {
