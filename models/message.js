@@ -26,11 +26,10 @@ var Model = sequelize.define('Message', {
   indexes: [
     {
       unique: true,
-      fiels: ['message_id']
+      fields: ['message_id']
     }
   ]
 })
-
 
 Model.removeAttribute('id')
 

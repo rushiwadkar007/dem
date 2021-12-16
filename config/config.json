@@ -9,7 +9,7 @@
     "database": "heroku_992f958633ba454",
     "host": "us-cdbr-east-05.cleardb.net",
     "dialect": "mysql",
-    "admin" : {
+    "admin": {
       "username": "rushidb",
       "password": "879345rushi*"
     }
@@ -25,7 +25,7 @@
     "admin": {
       "username": {
         "use_env_variable": "ADMIN_USERNAME"
-      } ,
+      },
       "password": {
         "use_env_variable": "ADMIN_PASSWORD"
       }
