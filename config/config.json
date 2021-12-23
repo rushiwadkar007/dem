@@ -4,14 +4,14 @@
     "collate": "utf8mb4_unicode_ci"
   },
   "development": {
-    "username": "bbea1205965fe3",
-    "password": "b08c9027",
-    "database": "heroku_992f958633ba454",
-    "host": "us-cdbr-east-05.cleardb.net",
+    "username": "uf2jfqo8okno6ljp",
+    "password": "7krsLutoDf6TkJpsYkaz",
+    "database": "bi6zv2isog3vj3hwadcl",
+    "host": "bi6zv2isog3vj3hwadcl-mysql.services.clever-cloud.com",
     "dialect": "mysql",
     "admin": {
-      "username": "rushidb",
-      "password": "879345rushi*"
+      "username": "uf2jfqo8okno6ljp",
+      "password": "7krsLutoDf6TkJpsYkaz"
     }
   },
   "production": {
