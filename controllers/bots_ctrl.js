@@ -58,7 +58,7 @@ module.exports = function(io) {
     },
     show: function(req, res, next) {
       var id = req.params.id;
-      Bot.findById(id)
+      Bot.findByPk(id)
         .then(function(bot) {
           res.json(bot);
         })
